@@ -27,10 +27,9 @@ permalink: recipes/:categories/:title.html
 
 # Directions
 
-1. Preheat oven to 200°F. Season beef all over with salt and pepper. In cast
-   iron dutch oven, heat 2 tablespoons oil in each over high heat until lightly
-smoking. Divide beef into batches and brown, about 5 minuntes. Transfer to a
-bowl. 
+1. Preheat oven to 200°F. Season beef all over with salt and pepper. In a dutch
+   oven, heat 2 tablespoons oil in each over high heat until lightly smoking.
+Divide beef into batches and brown, about 5 minuntes. Transfer to a bowl. 
 
 2. Pour remaining 2 tablespoons oil into the dutch oven and heat until
    shimmering. Add half the mushrooms and cook, stirring frequently and scraping
@@ -41,14 +40,14 @@ are softened and lightly golden, about 7 minutes longer. Season with salt and
 pepper.
 
 3. Add the wine and beef stock and bring to a boil, stirring and scraping up any
-   browned bits. Add beef and remaining mushrooms to the dutch oven, cover,  and
+   browned bits. Add beef and remaining mushrooms to the dutch oven, cover, and
 transfer to the oven. Cook until beef is tender (see note), about 3 hours.
 
 4. When beef has about 10 minutes remaining, bring a large pot of heavily salted
    water to a boil. Cook noodles and set aside.
 
 5. Remove beef from the oven. Add cream, bring to a boil, and reduce to a
-   simmer. Simmer until lightly reduced and the sauce has thickened slightly
+   simmer. Simmer until lightly reduced and the sauce has thickened slightly.
 
 6. Top noddles with beef/mushroom sauce and serve immediately.
 
