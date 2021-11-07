@@ -12,18 +12,17 @@ permalink: recipes/:categories/:title.html
 
 # Ingredients
 * 1 (1-pound) loaf sourdough bread 10 tablespoons extra-virgin olive oil
-* 1 pound turkey􏰔 sausage, casing removed
+* 1 pound turkey sausage, casing removed
 * 2 cups diced onions
-*􏰠1/2 sprig rosemary
-* 2 teaspoons th􏰔me lea􏰚es
+* 1/2 sprig rosemary
+* 2 teaspoons thyme leaves
 * 2 sliced chile de arbol
 * 1 teaspoon kosher salt, plus more to taste
 * Black pepper, to taste
-* 1 pound lacinato kale (also known as Tuscan kale), about 2 large or 3 small bunches, tough rib stems removed and roughly􏰔 chopped
-* 3 ounces deglet noor dates (about 16), cut in half length􏰖wise
-* 1 cup dry􏰔 sherry􏰔
-* 2 cups chicken or turkey􏰔 stock 4 tablespoons unsalted butter
-􏰢 cup roughly􏰔 chopped toasted almonds
+* 1 pound lacinato kale (also known as Tuscan kale), about 2 large or 3 small bunches, tough rib stems removed and roughly chopped
+* 3 ounces deglet noor dates (about 16), cut in half length wise
+* 1 cup dry sherry
+* 2 cups chicken or turkey stock 4 tablespoons unsalted butter cup roughly chopped toasted almonds
 
 # Directions
 
