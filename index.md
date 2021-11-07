@@ -1,17 +1,12 @@
 ---
-title: Karl's Cookbook
+title: Kumbier Cookbook
 author: Karl Kumbier
 layout: post
 ---
 
-This is my cookbook!
+This cookbook started as a tool for organizing some of my favorite recipes.
+I regularly found myself digging through the internet or texting family/friends
+to try and find a recipe. When someone would ask for a recipe, I'd start the
+process over, trying to figure out where I could find it. 
 
-<html>
-  <body>
-    <form action="https://formspree.io/f/{form_id}" method="post">
-      <label for="email">Your Email</label>
-      <input name="Email" id="email" type="email">
-      <button type="submit">Submit</button>
-    </form>
-  </body>
-</html>
+[Contribute](https://docs.google.com/document/d/1oMFtJR32o2LAZx3afjqPX_Xl4hsb2AxFtKNGyjfRYO4/edit?usp=sharing)
