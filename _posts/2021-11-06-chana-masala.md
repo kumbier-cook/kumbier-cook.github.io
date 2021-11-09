@@ -5,8 +5,8 @@ date:   2021-11-06
 author: "Karl Kumbier"
 categories: mains
 image:
-  path: /images/detroit-style-pizza.png
-  thumbnail: /images/detroit-style-pizza.png
+  path: /images/chana-masala.png
+  thumbnail: /images/chana-masala.png
 permalink: recipes/:categories/:title.html
 ---
 
