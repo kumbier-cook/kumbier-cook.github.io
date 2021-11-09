@@ -3,7 +3,7 @@ layout: post
 title:  "Papi chulo sauce"
 date:   2021-10-09
 author: "Karl Kumbier"
-categories: sauces
+categories: ['Sauces & dips']
 permalink: recipes/:categories/:title.html
 image:
   path: /images/papi-chulo-sauce.png
