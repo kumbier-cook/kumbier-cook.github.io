@@ -6,23 +6,34 @@ author: "Karl Kumbier"
 categories: desserts
 permalink: recipes/:categories/:title.html
 image:
-  path: /images/blueberry-orange-pie.png
-  thumbnail: /images/blueberry-orange-pie.png
+  path: /images/creme-brulee.png
+  thumbnail: /images/creme-brulee.png
 ---
 
 # Ingredients
-
-### Filling
-* 20 ounces fresh blueberries (3 1/4 cups; 565g)
-* 8 ounces wild blueberries (2 cups; 225g), fresh or frozen (see note)
-* 1 ounce fresh juice from 1 orange (2 tablespoons; 30g)
-* 1 ounce orange zest
-* 7 ounces sugar (1 cup; 195g)
-* 2 teaspoons vanilla
-* 1/2 teaspoon (2g) Diamond Crystal kosher salt; for table salt, use half as much by volume or use the same weight
-* 1 1/2 ounces tapioca starch (1/3 cup plus 1 teaspoon; 40g), such as Bob's Red Mill (see note)
-* [Pie Dough]({% post_url 2021-10-09-pie-crust %}), rolled and chilled.
+* 2 cups heavy cream
+* 1 vanilla bean, split lengthwise, or 1 teaspoon vanilla extract
+* 1/8 teaspoon salt
+* 5 egg yolks
+* 1/2 cup sugar, more for topping
 
 # Directions
+
+1. Heat oven to 325 degrees. In a saucepan, combine cream, vanilla bean and salt
+   and cook over low heat just until hot. Let sit for a few minutes, then
+discard vanilla bean. (If using vanilla extract, add it now.)
+
+2. In a bowl, beat yolks and sugar together until light. Stir about a quarter of
+   the cream into this mixture, then pour sugar-egg mixture into cream and stir.
+Pour into four 6-ounce ramekins and place ramekins in a baking dish; fill dish
+with boiling water halfway up the sides of the dishes. Bake for 30 to 40
+minutes, or until centers are barely set. Cool completely. Refrigerate for
+several hours and up to a couple of days.
+
+3. When ready to serve, top each custard with about a teaspoon of sugar in a
+   thin layer. Place ramekins in a broiler 2 to 3 inches from heat source. Turn
+on broiler. Cook until sugar melts and browns or even blackens a bit, about 5
+minutes. Serve within two hours.
+
 # Resources
 

@@ -39,3 +39,9 @@ image:
 1. This recipe varies quite a bit depending on the mustard you use. I prefer a
    mustard that is slightly sweet and spicy — Bone Suckin' Mustard is my go to
 if you can find it!
+
+# Resources
+
+I originally discovered this sauce at Cheeseboard, a local pizza shop. The
+recipe here is cobbled together from various places across the internet along
+with my own tweaks to get the flavor I prefer.
