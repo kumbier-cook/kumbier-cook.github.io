@@ -5,8 +5,8 @@ date:   2021-11-06
 author: "Karl Kumbier"
 categories: mains
 image:
-  path: /images/detroit-style-pizza.png
-  thumbnail: /images/detroit-style-pizza.png
+  path: /images/sourdough-stuffing.png
+  thumbnail: /images/sourdough-stuffing.png
 permalink: recipes/:categories/:title.html
 ---
 
@@ -22,7 +22,9 @@ permalink: recipes/:categories/:title.html
 * 1 pound lacinato kale (also known as Tuscan kale), about 2 large or 3 small bunches, tough rib stems removed and roughly chopped
 * 3 ounces deglet noor dates (about 16), cut in half length wise
 * 1 cup dry sherry
-* 2 cups chicken or turkey stock 4 tablespoons unsalted butter cup roughly chopped toasted almonds
+* 2 cups chicken or turkey stock 
+* 4 tablespoons unsalted butter 
+* 1 cup roughly chopped toasted almonds
 
 # Directions
 

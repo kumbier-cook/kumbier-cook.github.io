@@ -13,7 +13,8 @@ image:
 # Ingredients
 
 * 8 ounces unsalted butter
-* 1 standard ice cube 5 ounces bread flour
+* 1 standard ice cube 
+* 5 ounces bread flour
 * 5 ounces cake flour 
 * 3/4 teaspoon baking soda
 * 2 teaspoons Diamond Crystal kosher salt or 1 teaspoon table salt
@@ -75,6 +76,8 @@ jar at room temperature for up to 5 days.
 
 3. Letting the cookies rest at least 24 hours results in a much nicer
    texture/bake.
+
+4. Butter should solidify but be soft wen stirred.
 
 # Resources
 
