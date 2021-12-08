@@ -6,8 +6,8 @@ author: "Karl Kumbier"
 categories: desserts
 permalink: recipes/:categories/:title.html
 image:
-  path: /images/blueberry-orange-pie.png
-  thumbnail: /images/blueberry-orange-pie.png
+  path: /images/old-fashioned-eggnog.png
+  thumbnail: /images/old-fashioned-eggnog.png
 ---
 
 # Ingredients
@@ -16,4 +16,4 @@ image:
 
 # Resources
 This recipe comes from my grandpa (Joe Weinburger). There's a long story for
-this recipe. I may get to adding it here at some point...
+this recipe that I may get to adding here at some point...

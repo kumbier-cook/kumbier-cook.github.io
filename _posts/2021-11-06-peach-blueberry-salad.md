@@ -3,10 +3,10 @@ layout: post
 title:  "Peach blueberry salad"
 date:   2021-11-06
 author: "Karl Kumbier"
-categories: salads
+categories: Salads
 image:
-  path: /images/detroit-style-pizza.png
-  thumbnail: /images/detroit-style-pizza.png
+  path: /images/test
+  thumbnail: /images/test
 permalink: recipes/:categories/:title.html
 ---
 

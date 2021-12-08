@@ -3,11 +3,11 @@ layout: post
 title:  "Sourdough bread"
 date:   2021-11-06
 author: "Karl Kumbier"
-categories: doughs
+categories: Doughs
 permalink: recipes/:categories/:title.html
 image:
-  path: /images/pie-crust.png
-  thumbnail: /images/pie-crust.png
+  path: /images/sourdough-bread.png
+  thumbnail: /images/sourdough-bread.png
 ---
 
 # Ingredients

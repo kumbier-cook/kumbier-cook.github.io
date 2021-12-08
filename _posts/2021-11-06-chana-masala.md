@@ -59,6 +59,5 @@ reduced into a thick stew and spices have melded, about 30 minutes.
 
 # Resources
 
-I originally found this recipe on [serious
-eats](https://www.seriouseats.com/channa-masala-recipe) and haven't modified
-anything yet.
+This recipe is taken from [serious
+eats](https://www.seriouseats.com/channa-masala-recipe).

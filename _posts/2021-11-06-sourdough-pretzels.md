@@ -3,11 +3,11 @@ layout: post
 title:  "Sourdough pretzels"
 date:   2021-11-06
 author: "Karl Kumbier"
-categories: doughs
+categories: Doughs
 permalink: recipes/:categories/:title.html
 image:
-  path: /images/pie-crust.png
-  thumbnail: /images/pie-crust.png
+  path: /images/sourdough-pretzels.png
+  thumbnail: /images/sourdough-pretzels.png
 ---
 
 # Ingredients

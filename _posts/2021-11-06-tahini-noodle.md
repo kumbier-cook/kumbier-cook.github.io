@@ -5,8 +5,8 @@ date:   2021-11-06
 author: "Karl Kumbier"
 categories: mains
 image:
-  path: /images/detroit-style-pizza.png
-  thumbnail: /images/detroit-style-pizza.png
+  path: /images/tahini-noodle.png
+  thumbnail: /images/tahini-noodle.png
 permalink: recipes/:categories/:title.html
 ---
 
