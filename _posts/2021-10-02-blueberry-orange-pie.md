@@ -21,6 +21,8 @@ image:
 * 2 teaspoons vanilla
 * 1/2 teaspoon (2g) Diamond Crystal kosher salt; for table salt, use half as much by volume or use the same weight
 * 1 1/2 ounces tapioca starch (1/3 cup plus 1 teaspoon; 40g), such as Bob's Red Mill (see note)
+
+### Crust
 * [Pie Dough]({% post_url 2021-10-09-pie-crust %}), rolled and chilled.
 
 ### Egg Wash (optional):
