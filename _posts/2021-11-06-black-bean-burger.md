@@ -3,7 +3,7 @@ layout: post
 title:  "Black bean burger"
 date:   2021-11-06
 author: "Karl Kumbier"
-categories: mains
+categories: Mains
 image:
   path: /images/black-bean-burger.png
   thumbnail: /images/black-bean-burger.png

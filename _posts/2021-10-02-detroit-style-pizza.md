@@ -3,7 +3,7 @@ layout: post
 title:  "Detroit style pizza"
 date:   2021-10-02
 author: "Karl Kumbier"
-categories: mains
+categories: Mains
 image:
   path: /images/detroit-style-pizza.png
   thumbnail: /images/detroit-style-pizza.png

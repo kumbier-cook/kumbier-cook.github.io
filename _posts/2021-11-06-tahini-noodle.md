@@ -3,7 +3,7 @@ layout: post
 title:  "Tahini noodle"
 date:   2021-11-06
 author: "Karl Kumbier"
-categories: mains
+categories: Mains
 image:
   path: /images/tahini-noodle.png
   thumbnail: /images/tahini-noodle.png

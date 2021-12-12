@@ -35,5 +35,3 @@ several hours and up to a couple of days.
 on broiler. Cook until sugar melts and browns or even blackens a bit, about 5
 minutes. Serve within two hours.
 
-# Resources
-

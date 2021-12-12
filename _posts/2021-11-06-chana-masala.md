@@ -3,7 +3,7 @@ layout: post
 title:  "Chana masala"
 date:   2021-11-06
 author: "Karl Kumbier"
-categories: mains
+categories: Mains
 image:
   path: /images/chana-masala.png
   thumbnail: /images/chana-masala.png

@@ -3,7 +3,7 @@ layout: post
 title:  "Beer battered cauliflower wings"
 date:   2021-11-08
 author: "Karl Kumbier"
-categories: mains
+categories: Mains
 image:
   path: /images/beer-battered-cauliflower-wings.png
   thumbnail: /images/beer-battered-cauliflower-wings.png

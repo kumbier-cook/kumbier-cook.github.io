@@ -3,7 +3,7 @@ layout: post
 title:  "Chicken pot pie"
 date:   2021-11-06
 author: "Karl Kumbier"
-categories: mains
+categories: Mains
 image:
   path: /images/chicken-pot-pie.png
   thumbnail: /images/chicken-pot-pie.png

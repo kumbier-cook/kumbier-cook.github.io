@@ -3,7 +3,7 @@ layout: post
 title:  "Pork belly tacos"
 date:   2021-10-04
 author: "Karl Kumbier"
-categories: mains
+categories: Mains
 image:
   path: /images/pork-belly-tacos.png
   thumbnail: /images/pork-belly-tacos.png

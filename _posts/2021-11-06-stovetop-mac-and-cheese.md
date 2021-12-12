@@ -3,7 +3,7 @@ layout: post
 title:  "Stovetop mac and cheese"
 date:   2021-11-06
 author: "Karl Kumbier"
-categories: mains
+categories: Mains
 image:
   path: /images/stovetop-mac-and-cheese.png
   thumbnail: /images/stovetop-mac-and-cheese.png

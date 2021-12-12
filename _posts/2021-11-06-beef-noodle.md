@@ -3,7 +3,7 @@ layout: post
 title:  "Beef noodle"
 date:   2021-11-06
 author: "Karl Kumbier"
-categories: mains
+categories: Mains
 image:
   path: /images/beef-noodle.png
   thumbnail: /images/beef-noodle.png

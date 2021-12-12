@@ -3,7 +3,7 @@ layout: post
 title:  "Sweet potato ravioli"
 date:   2021-11-06
 author: "Karl Kumbier"
-categories: mains
+categories: Mains
 image:
   path: /images/sweet-potato-ravioli.png
   thumbnail: /images/sweet-potato-ravioli.png
