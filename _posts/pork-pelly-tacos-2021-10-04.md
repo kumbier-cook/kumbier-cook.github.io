@@ -36,12 +36,12 @@ permalink: recipes/:categories/:title.html
 
 ### Sriracha mayo:
 
-* 1/2 cup avocado oil mayo
+* 1/2 cup mayo
 * 1/4 cup sriracha
 
 ### For the tacos
 
-* 4–6 cassava tortillas
+* 4–6 corn tortillas
 * cilantro, for garnish
 
 # Directions

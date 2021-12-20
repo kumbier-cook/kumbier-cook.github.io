@@ -31,5 +31,5 @@ cool water, stirring constantly, until smooth, about 1/2-1 cup.
 # Notes & tips
 1. I prefer this recipe with thick cut, homemade wheat noodles.
 
-2. this recipe is great on its own, or with a variety of roasted veggies and/or
+2. This recipe is great on its own or with a variety of roasted veggies and/or
    flank steak.
