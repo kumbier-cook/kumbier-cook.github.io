@@ -3,7 +3,7 @@ layout: post
 title:  "Blueberry orange pie"
 date:   2021-10-02
 author: "Karl Kumbier"
-categories: desserts
+categories: Desserts
 permalink: recipes/:categories/:title.html
 image:
   path: /images/blueberry-orange-pie.png
@@ -23,7 +23,7 @@ image:
 * 1 1/2 ounces tapioca starch (1/3 cup plus 1 teaspoon; 40g), such as Bob's Red Mill (see note)
 
 ### Crust
-* [Pie Dough]({% post_url pie-crust-2021-10-09 %}), rolled and chilled.
+* [Pie Dough]({% post_url 2021-12-20-pie-crust %}), rolled and chilled.
 
 ### Egg Wash (optional):
 * 1 large egg

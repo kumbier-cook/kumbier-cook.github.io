@@ -3,7 +3,7 @@ layout: post
 title:  "The perfect chocolate chip cookie"
 date:   2021-10-02
 author: "Karl Kumbier"
-categories: desserts
+categories: Desserts
 permalink: recipes/:categories/:title.html
 image:
   path: /images/perfect-chocolate-chip-cookie.png

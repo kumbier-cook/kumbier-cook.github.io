@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Sourdough stuffing"
-date:   2021-11-06
+date:   2021-11-19
 author: "Karl Kumbier"
-categories: mains
+categories: Mains
 image:
   path: /images/sourdough-stuffing.png
   thumbnail: /images/sourdough-stuffing.png

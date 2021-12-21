@@ -46,7 +46,7 @@ permalink: recipes/:categories/:title.html
 * 28 ounces poached chicken, from above (4 cups, shredded; 795g), or more to taste
 
 ### Crust
-* [Pie Dough]({% post_url pie-crust-2021-10-09 %}), rolled and chilled.
+* [Pie Dough]({% post_url 2021-12-20-pie-crust %}), rolled and chilled.
 
 ### Egg Wash (optional):
 * 1 large egg

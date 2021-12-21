@@ -46,6 +46,6 @@ nicely!
    cups). Maintaining oil levels ensures that the temperature doesn't drop too
 much when you add a new batch of wings — giving you the nice crispy batter!
 4. I prefer these wings with [chili lime sauce]({% post_url
-   2021-11-06-chili-lime-sauce %}), cilantro, and sesame seeds. Don't add sauce
+   2021-12-20-chili-lime-sauce %}), cilantro, and sesame seeds. Don't add sauce
 to any wings you want to save as leftovers as they will get soggy. Leftovers can
 be re-fried or baked. 

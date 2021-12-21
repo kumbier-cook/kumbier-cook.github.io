@@ -33,7 +33,7 @@ to bowl with sauce, toss to coat, and serve with blue cheese dressing and
 celery. Repeat with remaining batches, serving one batch at a time.
 
 # Notes & tips
-1. I prefer these wings with [chili lime sauce]({% post_url chili-lime-sauce-2021-11-06 %})
+1. I prefer these wings with [chili lime sauce]({% post_url 2021-12-20-chili-lime-sauce %})
 
 # Resources
 This recipe is taken from [serious

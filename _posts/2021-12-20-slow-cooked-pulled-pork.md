@@ -49,4 +49,4 @@ excess fat and discard. Add reserved sauce and remaining vinegar to pot and
 whisk to combine. When pork is cool enough to handle, shred with two forks.
 
 5. Transfer shredded pork to pot and serve with [barbecue sauce]({% post_url
-   barbecue-sauce-2021-11-06 %})
+   2021-12-20-barbecue-sauce %})
