@@ -14,12 +14,12 @@ image:
 
 * 8 ounces unsalted butter
 * 1 standard ice cube 
-* 5 ounces bread flour
-* 5 ounces cake flour 
+* 7.5 ounces bread flour
+* 2.5 ounces cake flour 
 * 3/4 teaspoon baking soda
 * 2 teaspoons Diamond Crystal kosher salt or 1 teaspoon table salt
 * 5 ounces granulated sugar 
-* 3 large egg yolks,  1 large egg white
+* 2 large eggs
 * 2 teaspoons vanilla extract
 * 5 ounces dark brown sugar
 * 6 ounces semisweet chocolate, roughly chopped with a knife into 1/2- to 1/4-inch chunks
@@ -48,15 +48,15 @@ speed to combine, about 15 seconds. Add flour mixture and mix on low speed until
 just barely combined, with some dry flour still remaining, about 15 seconds. Add
 chocolate and mix on low speed until dough comes together, about 15 seconds
 longer. Transfer to an airtight container and refrigerate dough **at least
-overnight** and up to 3 days.
+overnight** and up to 3 days. (see note)
 
 4. When ready to bake, adjust oven racks to upper- and lower-middle positions
-   and preheat oven to 350°F. Scoop out 60g balls onto a lined baking sheet.
-Tear each ball in half to reveal a rougher surface, then stick them back
-together with the rough sides facing outward. Transfer to oven and bake 12
-minutes. Remove pan from oven and drop on stove/counter (yes, drop!). Replace
-pan and continue baking until until golden brown around edges but still soft,
-about 2 to 3 minutes. 
+   and preheat oven to 325°F (convenction bake ideally). Scoop out 75g balls
+onto a lined baking sheet.  Tear each ball in half to reveal a rougher surface,
+then stick them back together with the rough sides facing outward. Transfer to
+oven and bake 10 minutes. Remove pan from oven and drop on stove/counter (yes,
+drop!). Replace pan and continue baking until until golden brown around edges
+but still soft, about 2 to 3 minutes. 
 
 5. Remove baking sheets from oven. While cookies are still hot, sprinkle very
    lightly with coarse salt and gently press salt down to embed. Let cool for 10
@@ -75,7 +75,7 @@ jar at room temperature for up to 5 days.
    butter is a rich brown.
 
 3. Letting the cookies rest at least 24 hours results in a much nicer
-   texture/bake.
+   texture/bake. My best results so far are freezing for ~1 week before baking.
 
 4. Butter should solidify but be soft wen stirred.
 
