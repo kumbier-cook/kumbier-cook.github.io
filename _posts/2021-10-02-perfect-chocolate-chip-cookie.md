@@ -12,17 +12,20 @@ image:
 
 # Ingredients
 
-* 8 ounces unsalted butter
+* 8 ounces unsalted butter **(best results so far came with strauss butter, not
+  sure how much that affects the cookie overall...)**
 * 1 standard ice cube 
 * 7.5 ounces bread flour
 * 2.5 ounces cake flour 
 * 3/4 teaspoon baking soda
 * 2 teaspoons Diamond Crystal kosher salt or 1 teaspoon table salt
 * 5 ounces granulated sugar 
-* 2 large eggs (?? Mediumish eggs gave right texture ??)
+* 2 large eggs **(?? Mediumish eggs gave right texture ??)**
 * 2 teaspoons vanilla extract
 * 5 ounces dark brown sugar
-* 8 ounces semisweet chocolate, roughly chopped with a knife into 1/2- to 1/4-inch chunks. I used a combination of chips and "discs," w/ discs cut into chumnks.
+* 8 ounces semisweet chocolate, roughly chopped with a knife into 1/2- to
+  1/4-inch chunks. I used a combination of chips and "discs," w/ discs cut into
+chumnks.
 * Coarse sea salt, for garnish
 
 # Directions
