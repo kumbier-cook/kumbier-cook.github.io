@@ -12,11 +12,12 @@ image:
 
 # Ingredients
 
-* 288g bread flour
+* 300g 00 flour
 * 32g whole wheat flour
 * 215g water
 * 6g salt
 * 48g ripe sourdough starter (see note)
+* 1/2 teaspoon active dry yeast
 
 # Directions
 
