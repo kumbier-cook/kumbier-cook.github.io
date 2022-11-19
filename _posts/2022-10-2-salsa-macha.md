@@ -5,8 +5,8 @@ date:   2021-12-19
 author: "Karl Kumbier"
 categories: ['Sauces & dips']
 image:
-  path: /images/pesto.png
-  thumbnail: /images/pesto.png
+  path: /images/salsa-macha.png
+  thumbnail: /images/salsa-macha.png
 permalink: recipes/:categories/:title.html
 ---
 
