@@ -40,10 +40,8 @@ image:
 2. Melt the butter over medium heat. Add the sugar and salt and whisk vigorously
    for one minute until combined. Cook, stirring constantly, until the mixture
 looks like melted peanut butter and a candy thermometer reaches 295 to 305°F,
-about 10 minutes.
-
-If the mixture separates at all, remove from heat and whisk vigorously until
-recombined. Return to heat and continue cooking.
+about 10 minutes. If the mixture separates at all, remove from heat and whisk
+vigorously until recombined. Return to heat and continue cooking.
 
 3. Immediately and carefully pour the hot toffee onto the prepared baking pan,
    allowing it to spread into an even layer. Let cool and harden for about 20
@@ -58,11 +56,9 @@ minutes.
 nutty, about 5 minutes. Remove from heat and continue swirling the pan until the
 butter is a rich brown, about 15 seconds longer. Transfer to a medium bowl.  Be
 sure to keep the brown bits at the bottom of the pan as well, they hold so much
-flavor!
-
-Add the granulated sugar and brown sugar to the hot butter, stirring to combine.
-Set in the fridge to cool to room temperature (20min). the butter mixture should
-be just solidified, between "fridge butter" and "soft butter.
+flavor! Add the granulated sugar and brown sugar to the hot butter, stirring to
+combine.  Set in the fridge to cool to room temperature (20min). the butter
+mixture should be just solidified, between "fridge butter" and "soft butter.
 
 
 2. Meanwhile, whisk together flour, baking soda, baking powder, and salt in a large bowl. 
