@@ -16,14 +16,14 @@ permalink: recipes/:categories/:title.html
 - 3 large guajillo peppers
 - 5-6 chile de arbol peppers
 - 1/3 cup pumpkin seeds
-- 6 garlic cloves while
+- 6 garlic cloves, whole
 - 1 shallot, sliced
 - 1 tablespoon sesame seeds
 - 3/4 cups olive oil or use vegetable oil
-- juice from 1/2 orange
+- Juice from 1/2 orange
 - Orange zest
 - 1 Tbsp honey
-- juice from 1 lime
+- Juice from 1 lime
 - 1 Tbsp apple cider vinegar
 - Salt to taste I use 1/2 teaspoon
 - 1/2 teaspoon Mexican oregano
