@@ -56,33 +56,35 @@ minutes.
 nutty, about 5 minutes. Remove from heat and continue swirling the pan until the
 butter is a rich brown, about 15 seconds longer. Transfer to a medium bowl.  Be
 sure to keep the brown bits at the bottom of the pan as well, they hold so much
-flavor! Add the granulated sugar and brown sugar to the hot butter, stirring to
-combine.  Set in the fridge to cool to room temperature (20min). the butter
-mixture should be just solidified, between "fridge butter" and "soft butter.
+flavor! 
+
+#2. Add brown sugar to the hot butter, stirring to
+#combine.  Set in the fridge to cool to room temperature (20min). the butter
+#mixture should be just solidified, between "fridge butter" and "soft butter.
 
 
 2. Meanwhile, whisk together flour, baking soda, baking powder, and salt in a large bowl. 
-Place cooled sugar / butter mixture, eggs, and vanilla extract in the bowl of a stand mixer
-fitted with the whisk attachment. Whisk on medium-high speed until mixture is
-pale brownish-yellow and falls off the whisk in thick ribbons when lifted, about
-5 minutes.
 
-3. Gradually add flour mixture and mix on low speed until just barely combined,
+3. Cream cooled butter and brown sugar. Add eggs, and vanilla extract. Whisk on
+   medium-high speed until mixture is pale brownish-yellow and falls off the
+   whisk in thick ribbons when lifted, about 5 minutes.
+
+4. Gradually add flour mixture and mix on low speed until just barely combined,
    with some dry flour still remaining, about 15 seconds. Add chocolate / toffee
 and mix on low speed until dough comes together, about 15 seconds longer.
 Transfer to an airtight container and refrigerate dough **at least overnight**
 and up to 3 days. (see note)
 
-4. When ready to bake, adjust oven racks to upper- and lower-middle positions
+5. When ready to bake, adjust oven racks to upper- and lower-middle positions
    and preheat oven to 350°F. Scoop out 65g-75g balls
 onto a lined baking sheet.  Tear each ball in half to reveal a rougher surface,
 then stick them back together with the rough sides facing outward. Transfer to
 oven and bake 14-17 minutes. Add generous pinch of flaked salt to each cookie. 
 
-5. Remove baking sheets from oven. Let cool for 10 minutes, then transfer
+6. Remove baking sheets from oven. Let cool for 10 minutes, then transfer
    cookies to a wire rack to cool completely.
 
-6. Repeat steps 3 through 5 for remaining cookie dough. Allow cookies to cool
+7. Repeat steps 3 through 5 for remaining cookie dough. Allow cookies to cool
    completely before storing in an airtight container, plastic bag, or cookie
 jar at room temperature for up to 5 days.
 
