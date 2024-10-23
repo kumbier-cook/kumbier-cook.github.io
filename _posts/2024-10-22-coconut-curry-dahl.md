@@ -1,3 +1,12 @@
+---
+layout: post
+ititle:  "Coconut curry dahl"
+date:   2024-10-22
+author: "Karl Kumbier"
+categories: Mains
+permalink: recipes/:categories/:title.html
+---
+
 # Ingredients
 ## For the curry paste
 - 1 tsp chilli powder
