@@ -1,9 +1,12 @@
 ---
 layout: post
-ititle:  "Coconut curry dahl"
+ititle:  "Coconut curry dhal"
 date:   2024-10-22
 author: "Karl Kumbier"
 categories: Mains
+image:
+  path: /images/coconut-dal.webp
+  thumbnail: /images/coconut-dal.webp
 permalink: recipes/:categories/:title.html
 ---
 

@@ -5,8 +5,8 @@ date:   2021-12-19
 author: "Karl Kumbier"
 categories: Mains
 image:
-  path: /images/slow-cooked-pulled-pork.png
-  thumbnail: /images/slow-cooked-pulled-pork.png
+  path: /images/slow-cooked-pulled-pork.jpg
+  thumbnail: /images/slow-cooked-pulled-pork.jpg
 permalink: recipes/:categories/:title.html
 ---
 
