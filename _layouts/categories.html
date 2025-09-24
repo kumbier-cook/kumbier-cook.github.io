@@ -1,0 +1,32 @@
+---
+layout: page
+---
+
+<nav class="category-nav">
+  <a href="{{ '/search/' | relative_url }}" class="category-nav-item">Search</a>
+  {% assign recipe_categories = "Mains,Desserts,Doughs,Sauces & dips" | split: "," %}
+  {% for category in recipe_categories %}
+    {% assign category_slug = category | downcase | replace: " & ", "-" | replace: " ", "-" %}
+    <a href="{{ '/categories/' | append: category_slug | append: '/' | relative_url }}" class="category-nav-item">{{ category }}</a>
+  {% endfor %}
+</nav>
+
+{{ content }}
+
+<!-- Display all categories with their posts -->
+<div class="all-categories">
+  {% assign sorted_categories = site.categories | sort %}
+  {% for category in sorted_categories %}
+    {% assign category_name = category[0] %}
+    {% assign category_posts = category[1] %}
+    
+    <section id="{{ category_name | slugify | downcase }}" class="taxonomy-section">
+      <h2 class="taxonomy-title">{{ category_name }}</h2>
+      <div class="entries-{{ page.entries_layout | default: 'list' }}">
+        {% for entry in category_posts %}
+          {% include entry.html %}
+        {% endfor %}
+      </div>
+    </section>
+  {% endfor %}
+</div>

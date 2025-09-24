@@ -6,8 +6,8 @@ author: "Karl Kumbier"
 categories: ['Sauces & dips']
 permalink: recipes/:categories/:title.html
 image:
-  path: /images/papi-chulo-sauce.png
-  thumbnail: /images/papi-chulo-sauce.png
+  path: /images/papi-chulo-sauce.jpg
+  thumbnail: /images/papi-chulo-sauce.jpg
 ---
 
 # Ingredients

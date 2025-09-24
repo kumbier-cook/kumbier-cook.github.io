@@ -6,8 +6,8 @@ author: "Karl Kumbier"
 categories: Desserts
 permalink: recipes/:categories/:title.html
 image:
-  path: /images/perfect-chocolate-chip-cookie.png
-  thumbnail: /images/perfect-chocolate-chip-cookie.png
+  path: /images/gf-brownie.jpg
+  thumbnail: /images/gf-brownie.jpg
 ---
 
 # Ingredients

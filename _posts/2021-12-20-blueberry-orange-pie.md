@@ -6,8 +6,8 @@ author: "Karl Kumbier"
 categories: Desserts
 permalink: recipes/:categories/:title.html
 image:
-  path: /images/blueberry-orange-pie.png
-  thumbnail: /images/blueberry-orange-pie.png
+  path: /images/blueberry-orange-pie.jpg
+  thumbnail: /images/blueberry-orange-pie.jpg
 ---
 
 # Ingredients

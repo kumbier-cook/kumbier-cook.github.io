@@ -6,8 +6,8 @@ author: "Karl Kumbier"
 categories: Doughs
 permalink: recipes/:categories/:title.html
 image:
-  path: /images/sourdough-bread.png
-  thumbnail: /images/sourdough-bread.png
+  path: /images/sourdough-bread.jpg
+  thumbnail: /images/sourdough-bread.jpg
 ---
 
 # Ingredients

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Slow cooked pulled pork"
+title:  "Pulled pork"
 date:   2021-12-19
 author: "Karl Kumbier"
 categories: Mains

@@ -5,8 +5,8 @@ date:   2021-11-06
 author: "Karl Kumbier"
 categories: ['Sauces & dips']
 image:
-  path: /images/barbecue-sauce.png
-  thumbnail: /images/barbecue-sauce.png
+  path: /images/barbecue-sauce.jpg
+  thumbnail: /images/barbecue-sauce.jpg
 permalink: recipes/:categories/:title.html
 ---
 

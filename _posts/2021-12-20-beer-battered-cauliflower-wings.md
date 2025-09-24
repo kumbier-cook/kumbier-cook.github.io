@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Beer battered cauliflower wings"
+title:  "Cauliflower wings"
 date:   2021-11-08
 author: "Karl Kumbier"
 categories: Mains
 image:
-  path: /images/beer-battered-cauliflower-wings.png
-  thumbnail: /images/beer-battered-cauliflower-wings.png
+  path: /images/beer-battered-cauliflower-wings.jpg
+  thumbnail: /images/beer-battered-cauliflower-wings.jpg
 permalink: recipes/:categories/:title.html
 ---
 

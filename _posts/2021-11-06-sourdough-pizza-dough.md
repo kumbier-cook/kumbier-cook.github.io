@@ -6,8 +6,8 @@ author: "Karl Kumbier"
 categories: Doughs
 permalink: recipes/:categories/:title.html
 image:
-  path: /images/sourdough-pizza-dough.png
-  thumbnail: /images/sourdough-pizza-dough.png
+  path: /images/sourdough-pizza-dough.jpg
+  thumbnail: /images/sourdough-pizza-dough.jpg
 ---
 
 # Ingredients

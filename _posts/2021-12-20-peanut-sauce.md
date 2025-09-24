@@ -5,8 +5,8 @@ date:   2021-12-19
 author: "Karl Kumbier"
 categories: ['Sauces & dips']
 image:
-  path: /images/peanut-sauce.png
-  thumbnail: /images/peanut-sauce.png
+  path: /images/peanut-sauce.jpg
+  thumbnail: /images/peanut-sauce.jpg
 permalink: recipes/:categories/:title.html
 ---
 

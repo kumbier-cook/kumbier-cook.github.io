@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "baked farro, chickpea, and cucumber"
+title:  "Farro bake"
 date:   2022-11-18
 author: "Karl Kumbier"
 categories: ['Mains']
 permalink: recipes/:categories/:title.html
 image:
-  path: /images/baked-farro-chickpea-cucumber.png
-  thumbnail: /images/baked-farro-chickpea-cucumber.png
+  path: /images/baked-farro-chickpea-cucumber.jpg
+  thumbnail: /images/baked-farro-chickpea-cucumber.jpg
 ---
 
 # Ingredients

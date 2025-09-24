@@ -5,8 +5,8 @@ date:   2021-11-19
 author: "Karl Kumbier"
 categories: Mains
 image:
-  path: /images/sourdough-stuffing.png
-  thumbnail: /images/sourdough-stuffing.png
+  path: /images/sourdough-stuffing.jpg
+  thumbnail: /images/sourdough-stuffing.jpg
 permalink: recipes/:categories/:title.html
 ---
 

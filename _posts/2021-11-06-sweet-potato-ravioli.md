@@ -5,8 +5,8 @@ date:   2021-12-20
 author: "Karl Kumbier"
 categories: Mains
 image:
-  path: /images/sweet-potato-ravioli.png
-  thumbnail: /images/sweet-potato-ravioli.png
+  path: /images/sweet-potato-ravioli.jpg
+  thumbnail: /images/sweet-potato-ravioli.jpg
 permalink: recipes/:categories/:title.html
 ---
 

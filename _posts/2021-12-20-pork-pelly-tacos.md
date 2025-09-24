@@ -5,8 +5,8 @@ date:   2021-10-04
 author: "Karl Kumbier"
 categories: Mains
 image:
-  path: /images/pork-belly-tacos.png
-  thumbnail: /images/pork-belly-tacos.png
+  path: /images/pork-belly-tacos.jpg
+  thumbnail: /images/pork-belly-tacos.jpg
 permalink: recipes/:categories/:title.html
 ---
 

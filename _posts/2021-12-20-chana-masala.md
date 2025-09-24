@@ -5,8 +5,8 @@ date:   2021-11-06
 author: "Karl Kumbier"
 categories: Mains
 image:
-  path: /images/chana-masala.png
-  thumbnail: /images/chana-masala.png
+  path: /images/chana-masala.webp
+  thumbnail: /images/chana-masala.webp
 permalink: recipes/:categories/:title.html
 ---
 

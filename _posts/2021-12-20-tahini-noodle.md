@@ -5,8 +5,8 @@ date:   2021-11-06
 author: "Karl Kumbier"
 categories: Mains
 image:
-  path: /images/tahini-noodle.png
-  thumbnail: /images/tahini-noodle.png
+  path: /images/tahini-noodle.webp
+  thumbnail: /images/tahini-noodle.webp
 permalink: recipes/:categories/:title.html
 ---
 

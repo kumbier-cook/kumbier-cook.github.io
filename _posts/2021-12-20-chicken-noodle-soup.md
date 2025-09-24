@@ -5,8 +5,8 @@ date:   2021-11-06
 author: "Karl Kumbier"
 categories: Mains
 image:
-  path: /images/chicken-noodle-soup.png
-  thumbnail: /images/chicken-noodle-soup.png
+  path: /images/chicken-noodle-soup.jpg
+  thumbnail: /images/chicken-noodle-soup.jpg
 permalink: recipes/:categories/:title.html
 ---
 

@@ -5,8 +5,8 @@ date:   2021-11-06
 author: "Karl Kumbier"
 categories: Mains
 image:
-  path: /images/black-bean-burger.png
-  thumbnail: /images/black-bean-burger.png
+  path: /images/black-bean-burger.webp
+  thumbnail: /images/black-bean-burger.webp
 permalink: recipes/:categories/:title.html
 ---
 

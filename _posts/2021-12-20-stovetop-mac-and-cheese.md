@@ -5,8 +5,8 @@ date:   2021-11-06
 author: "Karl Kumbier"
 categories: Mains
 image:
-  path: /images/stovetop-mac-and-cheese.png
-  thumbnail: /images/stovetop-mac-and-cheese.png
+  path: /images/stovetop-mac-and-cheese.webp
+  thumbnail: /images/stovetop-mac-and-cheese.webp
 permalink: recipes/:categories/:title.html
 ---
 

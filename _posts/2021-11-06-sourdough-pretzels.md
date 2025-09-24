@@ -6,8 +6,8 @@ author: "Karl Kumbier"
 categories: Doughs
 permalink: recipes/:categories/:title.html
 image:
-  path: /images/sourdough-pretzels.png
-  thumbnail: /images/sourdough-pretzels.png
+  path: /images/sourdough-pretzels.jpeg
+  thumbnail: /images/sourdough-pretzels.jpeg
 ---
 
 # Ingredients

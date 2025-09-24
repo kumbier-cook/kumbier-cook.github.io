@@ -6,8 +6,8 @@ author: "Karl Kumbier"
 categories: Desserts
 permalink: recipes/:categories/:title.html
 image:
-  path: /images/sourdough-cinnamon-rolls.png
-  thumbnail: /images/sourdough-cinnamon-rolls.png
+  path: /images/sourdough-cinnamon-rolls.jpg
+  thumbnail: /images/sourdough-cinnamon-rolls.jpg
 ---
 
 # Ingredients

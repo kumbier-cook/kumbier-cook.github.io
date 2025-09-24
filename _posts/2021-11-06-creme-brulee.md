@@ -6,8 +6,8 @@ author: "Karl Kumbier"
 categories: Desserts
 permalink: recipes/:categories/:title.html
 image:
-  path: /images/creme-brulee.png
-  thumbnail: /images/creme-brulee.png
+  path: /images/creme-brulee.webp
+  thumbnail: /images/creme-brulee.webp
 ---
 
 # Ingredients

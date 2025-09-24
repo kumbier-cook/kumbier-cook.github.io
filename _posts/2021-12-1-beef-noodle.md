@@ -5,8 +5,8 @@ date:   2021-12-01
 author: "Karl Kumbier"
 categories: Mains
 image:
-  path: /images/beef-noodle.png
-  thumbnail: /images/beef-noodle.png
+  path: /images/beef-noodle.webp
+  thumbnail: /images/beef-noodle.webp
 permalink: recipes/:categories/:title.html
 ---
 

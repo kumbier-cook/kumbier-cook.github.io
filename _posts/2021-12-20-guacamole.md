@@ -5,8 +5,8 @@ date:   2021-12-19
 author: "Karl Kumbier"
 categories: ['Sauces & dips']
 image:
-  path: /images/guacamole.png
-  thumbnail: /images/guacamole.png
+  path: /images/guacamole.jpg
+  thumbnail: /images/guacamole.jpg
 permalink: recipes/:categories/:title.html
 ---
 
